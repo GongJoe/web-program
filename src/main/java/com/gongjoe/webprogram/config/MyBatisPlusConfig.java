@@ -7,8 +7,8 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @Author: GongJoe
- * @Date: 2023/4/7 14:42
+ * Author: GongJoe
+ * Date: 2023/4/7 14:42
  */
 @Configuration
 public class MyBatisPlusConfig {

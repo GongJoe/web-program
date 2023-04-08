@@ -8,8 +8,8 @@ import com.baomidou.mybatisplus.annotation.TableName;
 import java.util.List;
 
 /**
- * @Author: GongJoe
- * @Date: 2023/4/7 10:29
+ * Author: GongJoe
+ * Date: 2023/4/7 10:29
  */
 @TableName("t_user")
 public class User {

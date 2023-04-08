@@ -8,8 +8,8 @@ import org.apache.ibatis.annotations.*;
 import java.util.List;
 
 /**
- * @Author: GongJoe
- * @Date: 2023/4/7 13:31
+ * Author: GongJoe
+ * Date: 2023/4/7 13:31
  */
 @Mapper
 public interface OrderMapper extends BaseMapper<Order> {

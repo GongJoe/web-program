@@ -9,8 +9,8 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * @Author: GongJoe
- * @Date: 2023/4/7 10:19
+ * Author: GongJoe
+ * Date: 2023/4/7 10:19
  */
 @RestController
 public class FileController {
